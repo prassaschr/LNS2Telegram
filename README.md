@@ -7,5 +7,6 @@ https://www.forsomedefinition.com/automation/creating-telegram-bot-notifications
 
 2. Download and save the file "cmd" to "C:/"
 
-3. Follow the steps below to configure a Schedule Task.
+3. Import the XML to Schedule Task.
 
+4. Change User and relogin to test it.
