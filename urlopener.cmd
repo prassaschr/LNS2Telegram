@@ -15,7 +15,8 @@ rem **** batch zone *********************************************************
 
 @end
 // **** Javascript zone *****************************************************
-// Instantiate the needed component to make url queries
+// https://tinyurl.com/y78xl52x
+// Initialize component to send url queries
 var http = WScript.CreateObject('Msxml2.XMLHTTP.6.0');
 
 // Retrieve the url parameter
