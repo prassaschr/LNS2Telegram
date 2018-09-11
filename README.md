@@ -1,5 +1,6 @@
 # URLOpener
-Open a URL silently from windows command prompt
+Send a Telegram message, silently, when someone logs into to your Windows PC...
 
-Save the file to "C:/" for example:
-Run the command: C:/urlopener "http://www.test.com"
+HOWTO
+1. Save the file to "C:/"
+Follow the steps below to configure a Schedule Task.
