@@ -1,5 +1,5 @@
 # LNS2Telegram - Security Notification System
-Send a Telegram message, silently, when someone logs into to your Windows PC...
+Send a Telegram message, silently, when someone logs into your Windows PC...
 
 HOWTO
 1. Create a Telegram bot for personal notifications by following the guide mentioned to the site
